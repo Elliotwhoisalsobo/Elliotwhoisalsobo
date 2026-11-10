@@ -8,6 +8,9 @@
        '---''(_/--'  `-'\_)
  ```
 
+<p align="center">
+  <img src="bouncing-balls.gif" alt="ASCII-ballen die stuiteren" width="480">
+</p>
 
 ## Find me
 
