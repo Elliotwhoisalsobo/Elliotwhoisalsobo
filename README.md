@@ -1,13 +1,6 @@
 # Hi, I'm Bo 👋
 
 
-```
-         |\      _,,,---,,_
-   ZZZzz /,`.-'`'    -.  ;-;;,_
-        |,4-  ) )-,_. ,\ (  `'-'
-       '---''(_/--'  `-'\_)
- ```
-
 <p align="center">
   <img src="sleeping-cat-neon.gif" alt="Slapende pixelkat in neonkleuren" width="100%">
 </p>
