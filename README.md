@@ -9,7 +9,7 @@
  ```
 
 <p align="center">
-  <img src="bouncing-balls.gif" alt="ASCII-ballen die stuiteren" width="480">
+  <img src="sleeping-cat-neon.gif" alt="Slapende pixelkat in neonkleuren" width="100%">
 </p>
 
 ## Find me
