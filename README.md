@@ -1,5 +1,14 @@
 # Hi, I'm Bo 👋
 
+
+ ```
+         |\      _,,,---,,_
+   ZZZzz /,`.-'`'    -.  ;-;;,_
+        |,4-  ) )-,_. ,\ (  `'-'
+       '---''(_/--'  `-'\_)
+ ```
+
+
 ## Find me
 
 - 🌐 Portfolio: [bovermote.be](https://bovermote.be)
