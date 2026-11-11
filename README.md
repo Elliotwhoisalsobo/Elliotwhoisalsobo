@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="sleeping-cat-neon.gif" alt="Slapende pixelkat in neonkleuren" width="100%">
+  <img src="sleeping-cat-neon.gif" alt="Drie neonkatten: links een zwaaiende kat, in het midden een kat die wakker wordt en gaapt, rechts de oorspronkelijke slapende kat met Zzz" width="100%">
 </p>
 
 ## Find me
