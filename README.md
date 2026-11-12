@@ -5,11 +5,15 @@
   <img src="sleeping-cat-neon.gif" alt="Drie neonkatten: links een zwaaiende kat, in het midden een kat die wakker wordt en gaapt, rechts de oorspronkelijke slapende kat met Zzz" width="100%">
 </p>
 
+## About me
+I'm a final year student who works as a freelance data engineer on the side, I love everything data and statistics.
+Currently working on building and maintaining EU cloud server infrastructure for web apps.
+
 ## Find me
 
-- 🌐 Portfolio: [bovermote.be](https://bovermote.be)
-- 💼 LinkedIn: [bo-vermote](https://www.linkedin.com/in/bo-vermote/)
-- ⚖️ LexVind: [lexvind.be](https://www.lexvind.be)
+- Portfolio: [bovermote.be](https://bovermote.be)
+- LinkedIn: [bo-vermote](https://www.linkedin.com/in/bo-vermote/)
+- LexVind (WIP): [lexvind.be](https://www.lexvind.be)
 
 ## Toolbox
 
